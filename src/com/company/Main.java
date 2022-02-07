@@ -91,6 +91,7 @@ public class Main {
             if (i == myIntMassive.length - 1) {
                 p = "";
             }
+
             System.out.print(myIntMassive[i] + p + " ");
         }
 
